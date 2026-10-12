@@ -36,6 +36,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:21",
         "prix": 124.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:12",
+        "prix": 124.99
       }
     ]
   },
@@ -45,7 +50,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "10:50",
-    "prix": 48.29,
+    "prix": 40.69,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -76,6 +81,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:21",
         "prix": 48.29
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:12",
+        "prix": 40.69
       }
     ]
   },
@@ -85,7 +95,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "15:15",
-    "prix": 46.99,
+    "prix": 44.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -116,6 +126,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:21",
         "prix": 46.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:12",
+        "prix": 44.99
       }
     ]
   },
@@ -125,7 +140,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "13:00",
-    "prix": 93.29,
+    "prix": 85.29,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -156,6 +171,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:38",
         "prix": 93.29
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:36",
+        "prix": 85.29
       }
     ]
   },
@@ -165,7 +185,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "07:25",
-    "prix": 30.79,
+    "prix": 25.69,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -196,6 +216,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:38",
         "prix": 30.79
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:36",
+        "prix": 25.69
       }
     ]
   },
@@ -236,6 +261,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:38",
         "prix": 93.29
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:36",
+        "prix": 93.29
       }
     ]
   },
@@ -245,7 +275,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "13:05",
-    "prix": 59.99,
+    "prix": 63.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -276,6 +306,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:38",
         "prix": 59.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:36",
+        "prix": 63.99
       }
     ]
   },
@@ -285,7 +320,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "10:50",
-    "prix": 67.99,
+    "prix": 68.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -316,6 +351,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:38",
         "prix": 67.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:36",
+        "prix": 68.99
       }
     ]
   },
@@ -325,7 +365,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "15:15",
-    "prix": 114.36,
+    "prix": 104.48,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -356,6 +396,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:52",
         "prix": 114.36
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:50",
+        "prix": 104.48
       }
     ]
   },
@@ -365,7 +410,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "13:00",
-    "prix": 35.99,
+    "prix": 30.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -396,6 +441,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:52",
         "prix": 35.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:50",
+        "prix": 30.99
       }
     ]
   },
@@ -405,7 +455,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "07:25",
-    "prix": 85.29,
+    "prix": 74.29,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -436,6 +486,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:52",
         "prix": 85.29
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:50",
+        "prix": 74.29
       }
     ]
   },
@@ -445,7 +500,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "09:40",
-    "prix": 39.08,
+    "prix": 33.27,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -476,6 +531,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:52",
         "prix": 39.08
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:50",
+        "prix": 33.27
       }
     ]
   },
@@ -516,6 +576,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:15:52",
         "prix": 93.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:02:50",
+        "prix": 93.99
       }
     ]
   },
@@ -525,7 +590,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "10:50",
-    "prix": 34.99,
+    "prix": 32.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -556,6 +621,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:12",
         "prix": 34.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:11",
+        "prix": 32.99
       }
     ]
   },
@@ -596,6 +666,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:12",
         "prix": 123.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:11",
+        "prix": 123.99
       }
     ]
   },
@@ -605,7 +680,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "13:00",
-    "prix": 76.5,
+    "prix": 64.29,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -636,6 +711,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:12",
         "prix": 76.5
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:11",
+        "prix": 64.29
       }
     ]
   },
@@ -675,6 +755,11 @@
       {
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:12",
+        "prix": 19.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:11",
         "prix": 19.99
       }
     ]
@@ -716,6 +801,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:33",
         "prix": 25.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:33",
+        "prix": 25.99
       }
     ]
   },
@@ -725,7 +815,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "13:05",
-    "prix": 85.99,
+    "prix": 82.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -756,6 +846,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:33",
         "prix": 85.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:33",
+        "prix": 82.99
       }
     ]
   },
@@ -796,6 +891,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:33",
         "prix": 125.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:33",
+        "prix": 125.99
       }
     ]
   },
@@ -805,7 +905,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "15:15",
-    "prix": 43.99,
+    "prix": 41.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -836,6 +936,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:47",
         "prix": 43.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:55",
+        "prix": 41.99
       }
     ]
   },
@@ -845,7 +950,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "13:00",
-    "prix": 35.99,
+    "prix": 34.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -876,6 +981,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:47",
         "prix": 35.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:55",
+        "prix": 34.99
       }
     ]
   },
@@ -885,7 +995,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "07:25",
-    "prix": 26.02,
+    "prix": 21.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -916,6 +1026,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:47",
         "prix": 26.02
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:55",
+        "prix": 21.99
       }
     ]
   },
@@ -925,7 +1040,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "09:40",
-    "prix": 18.99,
+    "prix": 17.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -956,6 +1071,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:47",
         "prix": 18.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:55",
+        "prix": 17.99
       }
     ]
   },
@@ -965,7 +1085,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "13:05",
-    "prix": 98.99,
+    "prix": 96.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -996,6 +1116,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:47",
         "prix": 98.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:55",
+        "prix": 96.99
       }
     ]
   },
@@ -1036,6 +1161,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:16:47",
         "prix": 41.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:03:55",
+        "prix": 41.99
       }
     ]
   },
@@ -1045,7 +1175,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "15:15",
-    "prix": 67.99,
+    "prix": 68.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1076,6 +1206,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:17:02",
         "prix": 67.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:04:27",
+        "prix": 68.99
       }
     ]
   },
@@ -1085,7 +1220,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "13:00",
-    "prix": 101.22,
+    "prix": 99.02,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1116,6 +1251,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:17:02",
         "prix": 101.22
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:04:27",
+        "prix": 99.02
       }
     ]
   },
@@ -1125,7 +1265,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "13:05",
-    "prix": 91.67,
+    "prix": 86.52,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1156,6 +1296,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:17:26",
         "prix": 91.67
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:04:54",
+        "prix": 86.52
       }
     ]
   },
@@ -1165,7 +1310,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "10:50",
-    "prix": 114.99,
+    "prix": 109.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1196,6 +1341,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:17:26",
         "prix": 114.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:04:54",
+        "prix": 109.99
       }
     ]
   },
@@ -1236,6 +1386,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:17:26",
         "prix": 43.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:04:54",
+        "prix": 43.99
       }
     ]
   },
@@ -1245,7 +1400,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "13:00",
-    "prix": 99.02,
+    "prix": 101.22,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1276,6 +1431,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:17:47",
         "prix": 99.02
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:08",
+        "prix": 101.22
       }
     ]
   },
@@ -1285,7 +1445,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "13:05",
-    "prix": 63.81,
+    "prix": 65.41,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1316,6 +1476,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:17:47",
         "prix": 63.81
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:08",
+        "prix": 65.41
       }
     ]
   },
@@ -1325,7 +1490,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "10:50",
-    "prix": 67.99,
+    "prix": 62.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1356,6 +1521,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:17:47",
         "prix": 67.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:08",
+        "prix": 62.99
       }
     ]
   },
@@ -1365,7 +1535,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "15:15",
-    "prix": 48.13,
+    "prix": 40.54,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1396,6 +1566,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:16",
         "prix": 48.13
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:27",
+        "prix": 40.54
       }
     ]
   },
@@ -1435,6 +1610,11 @@
       {
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:16",
+        "prix": 146.86
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:27",
         "prix": 146.86
       }
     ]
@@ -1476,6 +1656,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:16",
         "prix": 26.81
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:27",
+        "prix": 26.81
       }
     ]
   },
@@ -1516,6 +1701,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:16",
         "prix": 152.84
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:27",
+        "prix": 152.84
       }
     ]
   },
@@ -1525,7 +1715,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "18:30",
-    "prix": 27.61,
+    "prix": 26.81,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1556,6 +1746,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:16",
         "prix": 27.61
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:27",
+        "prix": 26.81
       }
     ]
   },
@@ -1596,6 +1791,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:16",
         "prix": 87.27
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:27",
+        "prix": 87.27
       }
     ]
   },
@@ -1605,7 +1805,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "13:05",
-    "prix": 22.99,
+    "prix": 21.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1636,6 +1836,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:16",
         "prix": 22.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:27",
+        "prix": 21.99
       }
     ]
   },
@@ -1645,7 +1850,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "10:50",
-    "prix": 66.77,
+    "prix": 75.31,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1676,6 +1881,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:47",
         "prix": 66.77
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:40",
+        "prix": 75.31
       }
     ]
   },
@@ -1685,7 +1895,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "13:35",
-    "prix": 38.99,
+    "prix": 39.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1716,6 +1926,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:47",
         "prix": 38.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:40",
+        "prix": 39.99
       }
     ]
   },
@@ -1725,7 +1940,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "11:20",
-    "prix": 88.99,
+    "prix": 84.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1756,6 +1971,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:47",
         "prix": 88.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:40",
+        "prix": 84.99
       }
     ]
   },
@@ -1765,7 +1985,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "07:25",
-    "prix": 63.99,
+    "prix": 62.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1796,6 +2016,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:18:47",
         "prix": 63.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:40",
+        "prix": 62.99
       }
     ]
   },
@@ -1805,7 +2030,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "09:40",
-    "prix": 138.99,
+    "prix": 134.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1836,6 +2061,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:17",
         "prix": 138.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:59",
+        "prix": 134.99
       }
     ]
   },
@@ -1845,7 +2075,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "18:30",
-    "prix": 72.89,
+    "prix": 64.34,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1876,6 +2106,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:17",
         "prix": 72.89
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:59",
+        "prix": 64.34
       }
     ]
   },
@@ -1885,7 +2120,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "20:45",
-    "prix": 94.99,
+    "prix": 89.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1916,6 +2151,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:17",
         "prix": 94.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:59",
+        "prix": 89.99
       }
     ]
   },
@@ -1925,7 +2165,7 @@
     "destination": "TLS",
     "numero_vol": "FR 1192",
     "horaire_vol": "13:05",
-    "prix": 55.99,
+    "prix": 53.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1956,6 +2196,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:17",
         "prix": 55.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:59",
+        "prix": 53.99
       }
     ]
   },
@@ -1965,7 +2210,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "10:50",
-    "prix": 124.99,
+    "prix": 119.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -1996,6 +2241,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:17",
         "prix": 124.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:59",
+        "prix": 119.99
       }
     ]
   },
@@ -2036,6 +2286,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:17",
         "prix": 55.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:59",
+        "prix": 55.99
       }
     ]
   },
@@ -2045,7 +2300,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "11:20",
-    "prix": 101.22,
+    "prix": 96.81,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -2106,6 +2361,16 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:41",
         "prix": 101.22
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:05:59",
+        "prix": 96.81
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:06:23",
+        "prix": 96.81
       }
     ]
   },
@@ -2146,6 +2411,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:41",
         "prix": 175.69
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:06:23",
+        "prix": 175.69
       }
     ]
   },
@@ -2155,7 +2425,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "13:00",
-    "prix": 47.09,
+    "prix": 39.09,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -2186,6 +2456,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:41",
         "prix": 47.09
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:06:23",
+        "prix": 39.09
       }
     ]
   },
@@ -2226,6 +2501,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:41",
         "prix": 140.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:06:23",
+        "prix": 140.99
       }
     ]
   },
@@ -2235,7 +2515,7 @@
     "destination": "SVQ",
     "numero_vol": "FR 1193",
     "horaire_vol": "09:40",
-    "prix": 46.99,
+    "prix": 42.99,
     "historique": [
       {
         "date_requete": "2026-10-09",
@@ -2266,6 +2546,11 @@
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:41",
         "prix": 46.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:06:23",
+        "prix": 42.99
       }
     ]
   },
@@ -2305,6 +2590,11 @@
       {
         "date_requete": "2026-10-12",
         "heure_requete": "01:19:41",
+        "prix": 146.99
+      },
+      {
+        "date_requete": "2026-10-12",
+        "heure_requete": "15:06:23",
         "prix": 146.99
       }
     ]
